@@ -6,6 +6,6 @@
 </p>
 
 ###### TOTAL REPO VIEWS👩‍💻
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/MR-SHADO/count.svg)
   
 
