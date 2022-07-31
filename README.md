@@ -7,9 +7,7 @@
 
 ###### TOTAL REPO VIEWS👩‍💻
 ![Visitor Count](https://profile-counter.glitch.me/MR-SHADO/count.svg)
-  <div align="center">
-  <p align="center">
-<img src=https://i.imgur.com/v6poO4J.jpeg>
+  
+
+<img src=https://i.ibb.co/s1CSFK7/ae6572d653ee04f78fc986bddd89d5b3.png>
 </p>
-
-
