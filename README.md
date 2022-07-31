@@ -23,3 +23,7 @@
 4. Add app name and deploy 
 5. Watch your heroku log 
 
+# 
+### FORK QUEEN ELISA REPO
+ <p align="left">
+<a href="https://github.com/MR-SHADO/GHOST-SHADOW/fork"><img align="center" src="https://imgur.com/a/IrVZt4V" alt="Fork and deploy" height="35" width="150" /></a>
