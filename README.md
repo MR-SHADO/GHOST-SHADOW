@@ -7,7 +7,7 @@
 
 ###### TOTAL REPO VIEWS👩‍💻
 ![Visitor Count](https://profile-counter.glitch.me/MR-SHADO/count.svg)
-  
+  **[![AMRU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
 
-<img src=https://i.ibb.co/s1CSFK7/ae6572d653ee04f78fc986bddd89d5b3.png>
-</p>
+
+
