@@ -19,7 +19,7 @@
 
 # JOIN MY WHATSAPP GROUP
 
-# [![WhatsApp Group](https://img.shields.io/badge/whatsapp-JANIYA-red=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/94763940089)
+ [![CONTACH](https://img.shields.io/badge/whatsapp-JANIYA-red=for-the-badge&logo=whatsapp&logoColor=black)](https://wa.me/94763940089)
 
 #### ```How To deploy ```
 1. Fork This repo
