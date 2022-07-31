@@ -17,9 +17,9 @@
 </div>
 <p align="center">
 
-## JOIN MY WHATSAPP GROUP
+# JOIN MY WHATSAPP GROUP
 
-# [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black)](https://chat.whatsapp.com/HjmD26Tnd1mIlDcH2ISIqU)
+# [![WhatsApp Group](https://img.shields.io/badge/whatsapp-JANIYA-red=for-the-badge&logo=whatsapp&logoColor=black)](https://chat.whatsapp.com/HjmD26Tnd1mIlDcH2ISIqU)
 
 #### ```How To deploy ```
 1. Fork This repo
