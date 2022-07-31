@@ -16,4 +16,10 @@
 </div>
 <p align="center">
 
+#### ```How To deploy ```
+1. Fork This repo
+2. Scan Qr Code 
+3. Make Heroku deploy link your own 
+4. Add app name and deploy 
+5. Watch your heroku log 
 
